@@ -1,0 +1,19 @@
+.NumberOdd {
+  background-color: pink;
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#NumberTwo {
+  font-size: 36px;
+  color: blue;
+}
+
+.fs-6 {
+  font-size: 24px;
+}
+
+#NumberFour {
+  font-size: 24px;
+  background-color: green;
+  font-weight: bold;
+}
